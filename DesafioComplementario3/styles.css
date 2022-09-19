@@ -1,0 +1,21 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+    background: #f7feff;
+}
+
+.contenedor-productos {
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    color:#384047;
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #eff3f7;
+    margin: 3px;   
+}
