@@ -1,0 +1,88 @@
+/*2DA ENTREGA TP FINAL - ROBLEDO, BELEN*/
+
+/*----HTML TAGS-------------------------------------------------------------------*/
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+    background: #f7feff;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(99, 60, 117);
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    padding: 0px 0px 15px 0px;
+}
+
+button{
+    width: 250px;
+    padding: 20px 10px;
+    margin: 5px auto;
+    display: block;
+    font-size: 18px;
+    font-style: normal;
+    border-radius: 5px;
+    color: #f4f7f8;
+    background-color: rgb(99, 60, 117);
+    border: 1px solid rgb(99, 60, 117);
+    border-width: 1px 1px 3px;
+    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+}
+
+button:hover{
+    background-color: rgb(80, 50, 95);
+    cursor: pointer;
+}
+/*----------------------------------------------------------------------------------*/
+
+
+/*----CLASS NAMES-------------------------------------------------------------------*/
+.menu{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.contenedor-productos{
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    min-width: 170px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    color:#384047;
+    display: inline-block;
+    padding: 20px 20px;
+    background-color: #eff3f7;
+    margin: 3px; 
+}
+
+.img-product{
+    width: 200px;
+}
+
+.boton-producto{
+    padding: 5px 5px;
+    font-size: 90%;
+    width: 70%;
+}
+
+.boton-volver, .boton-carrito, .boton-pagar{
+    padding: 15px 15px;
+    width: 200px;
+}
+/*----------------------------------------------------------------------------------*/
