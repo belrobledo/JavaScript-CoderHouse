@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nombre": "Jugo",
+        "precio": 120,
+        "categoria": "Bebida",
+        "cantidad": "1",
+        "imgRoute": "./img/jugo.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Gaseosa",
+        "precio": 230,
+        "categoria": "Bebida",
+        "cantidad": "1",
+        "imgRoute": "./img/gaseosa.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Vino",
+        "precio": 490,
+        "categoria": "Bebida",
+        "cantidad": "1",
+        "imgRoute": "./img/Vino.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Galletitas",
+        "precio": 170,
+        "categoria": "Comida",
+        "cantidad": "1",
+        "imgRoute": "./img/galletitas.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Nachos",
+        "precio": 150,
+        "categoria": "Comida",
+        "cantidad": "1",
+        "imgRoute": "./img/nachos.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Chocolate",
+        "precio": 90,
+        "categoria": "Comida",
+        "cantidad": "1",
+        "imgRoute": "./img/chocolate.jpg"
+    }
+]
